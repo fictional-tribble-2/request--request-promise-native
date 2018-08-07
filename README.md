@@ -8,7 +8,7 @@
 [![Build Status](https://img.shields.io/travis/request/request-promise-native/master.svg?style=flat-square&maxAge=2592000)](https://travis-ci.org/request/request-promise-native)
 [![Coverage Status](https://img.shields.io/coveralls/request/request-promise-native.svg?style=flat-square&maxAge=2592000)](https://coveralls.io/r/request/request-promise-native)
 [![Dependency Status](https://img.shields.io/david/request/request-promise-native.svg?style=flat-square&maxAge=2592000)](https://david-dm.org/request/request-promise-native)
-[![Known Vulnerabilities](https://snyk.io/test/npm/request-promise-native/badge.svg?style=flat-square&maxAge=2592000)](https://snyk.io/test/npm/request-promise-native) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/request--request-promise-native.svg)](https://www.staging.guardrails.io)
+[![Known Vulnerabilities](https://snyk.io/test/npm/request-promise-native/badge.svg?style=flat-square&maxAge=2592000)](https://snyk.io/test/npm/request-promise-native) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/request--request-promise-native.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/request--request-promise-native.svg)](https://www.guardrails.io)
 
 This package is similar to [`request-promise`](https://www.npmjs.com/package/request-promise) but uses native ES6 promises.
 
